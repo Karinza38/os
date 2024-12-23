@@ -1,4 +1,4 @@
-# What is GroovyArcade ?
+What is GroovyArcade ?
 
 GroovyArcade (GA) is a 64bits Linux distribution for PCs using old CRT screens for perfect Arcade emulation using GroovyMAME.GroovyArcade features an easy to use installation wizard that will try to detect your CRT with your help, and then configure GA so you get the best experience on your CRT: responsive, tear-free with minimal input lag.
 
